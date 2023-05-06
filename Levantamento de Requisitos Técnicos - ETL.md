@@ -113,4 +113,85 @@
 - [ ] Não
 - [ ] Não sei
 
+Qual é o principal objetivo do seu projeto de ETL?
+- [ ]  Migração de dados
+- [ ]  Integração de dados
+- [ ]  Consolidação de dados
+- [ ]  Limpeza de dados
+- [ ]  Alimentação de Data Warehouse
+- [ ]  Gerar relatórios
+- [ ]  Armazenamento em nuvem
+- [ ]  Criação de dashboards
+- [ ]  Outro
 
+Qual é o nível do seu conhecimento da regra de negócio do ETL?
+- [ ]  Expert
+- [ ]  Avançado
+- [ ]  Intermediário
+- [ ]  Básico
+- [ ]  Iniciante
+- [ ]  Nenhum conhecimento
+- [ ]  Conhecimento mínimo
+- [ ]  Conhecimento prático
+
+Qual é o nível de automatização que você deseja alcançar com o seu processo de ETL?
+- [ ]  Baixo
+- [ ]  Médio
+- [ ]  Alto
+- [ ]  Totalmente automatizado
+- [ ]  Não sei
+- [ ]  Não se aplica
+
+Qual é o nível de complexidade do seu processo de ETL?
+- [ ]  Baixo
+- [ ]  Médio
+- [ ]  Alto
+- [ ]  Não possui
+- [ ]  Não sei
+
+Qual é o nível de prioridade de entrega do seu projeto de ETL?
+- [ ]  Urgente
+- [ ]  Alta prioridade
+- [ ]  Média prioridade
+- [ ]  Baixa prioridade
+- [ ]  Baixa prioridade com prazo estendido
+- [ ]  Ainda não definido
+- [ ]  Não é uma prioridade
+- [ ]  Não tenho certeza
+
+Qual é o principal sistema de destino final dos dados de ETL?
+- [ ]  Banco de dados relacional
+- [ ]  Data Warehouse
+- [ ]  Data Mart
+- [ ]  Armazenamento em nuvem
+- [ ]  Planilha eletrônica
+- [ ]  Dashboard
+- [ ]  Outros sistemas
+- [ ]  Ainda não decidido
+
+Qual é o tipo de autenticação que você precisa implementar no seu processo de ETL?
+- [ ]  Autenticação do usuário
+- [ ]  Autenticação do aplicativo
+- [ ]  Autenticação integrada do Windows
+- [ ]  Autenticação de token
+- [ ]  Autenticação baseada em certificado
+- [ ]  Autenticação de chave pública
+- [ ]  Sem autenticação
+- [ ]  Não tenho certeza
+
+Qual é o nível de segurança que você precisa implementar no seu processo de ETL?
+- [ ]  Alta segurança
+- [ ]  Média segurança
+- [ ]  Baixa segurança
+- [ ]  Nenhuma segurança
+- [ ]  Conforme a regulamentação
+- [ ]  Ainda não definido
+- [ ]  Não é uma prioridade
+- [ ]  Não tenho certeza
+
+Qual é o nível de registro de log de monitoramento que você precisa no seu processo de ETL?
+- [ ]  Detalhado
+- [ ]  Resumido
+- [ ]  Nenhum registro
+- [ ]  Ainda não definido
+- [ ]  Não tenho certeza
